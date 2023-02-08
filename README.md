@@ -1,4 +1,4 @@
-# stubent-list
+# student-list
 Student magazine is made with graphical user interface(gui)
 Создайте приложение в котором мы можем добавлять/смотреть список студентов, поступавших в университет. 
 Сущность студента создается классом Students с параметрами:
